@@ -1,12 +1,12 @@
 ---
 title: Writing a vuepress theme 1
 date: 2019-5-6
-tags: 
+tags:
   - theme
   - blog
   - vuepress
-author: John Doe
-featuredimg: 'https://images.unsplash.com/photo-1573247318220-c2683ee87351?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'  
+author: Sugeng D. Cahyo
+featuredimg: 'https://images.unsplash.com/photo-1573247318220-c2683ee87351?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
 summary: Mediumish is the best VuePress theme Medium styled.
 ---
 
@@ -116,7 +116,7 @@ You can apply some plugins to the theme via `theme/index.js`.
 ```js
 module.exports = {
   plugins: [
-    ['@vuepress/pwa', { 
+    ['@vuepress/pwa', {
       serviceWorker: true,
       updatePopup: true
     }]

@@ -1,11 +1,11 @@
 ---
 title: Leaving Las Vegas
 date: 2019-5-6
-tags: 
+tags:
   - theme
   - blog
   - vuepress
-author: John Doe
+author: Sugeng D. Cahyo
 featuredimg: 'https://images.unsplash.com/photo-1582996091947-7c50ca745bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80'
 summary: We find that Nature has made many wonderful provisions.
 ---
