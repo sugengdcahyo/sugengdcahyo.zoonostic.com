@@ -14,8 +14,8 @@ module.exports = {
       linktext: 'Follow',
       },
       {
-        name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
+        name: 'Sugeng D. Cahyo',
+        avatar: '/assets/img/avatar.svg',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
