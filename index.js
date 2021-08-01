@@ -7,7 +7,7 @@ module.exports = themeConfig => {
    * Default theme configuration
    */
   themeConfig = Object.assign(themeConfig, {
-    logo: '/assets/img/logo.png',
+    logo: '/assets/img/logo.svg',
     nav: themeConfig.nav || [
       {
         text: 'Blog',
@@ -16,6 +16,10 @@ module.exports = themeConfig => {
       {
         text: 'Tags',
         link: '/tag/',
+      },
+      {
+        text: 'About me',
+        link: '/about/',
       },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
@@ -42,6 +46,11 @@ module.exports = themeConfig => {
         id: 'tag',
         keys: ['tags'],
         path: '/tag/',
+      },
+      {
+        id: 'about',
+        keys: ['about'],
+        path: '/about/',
       },
     ],
     globalPagination: {

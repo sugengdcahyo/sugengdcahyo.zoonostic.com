@@ -1,17 +1,18 @@
 module.exports = {
-  title: 'Mediumish',
+  title: "Zoonostic",
   base: '',
   // base: './',
-  description: 'Blog example for Mediumish theme with VuePress',
+  description: '...',
+  // description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
-  authors: [
+    authors: [
       {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
-      linktext: 'Follow',
+        name: 'Sal',
+        avatar: '/assets/img/sal.jpg',
+        link: 'https://wowthemes.net/donate',
+        linktext: 'Follow',
       },
       {
         name: 'Sugeng D. Cahyo',
@@ -28,11 +29,11 @@ module.exports = {
         },
         {
           type: 'facebook',
-          link: '#',
+          link: 'https://facebook.com',
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          link: 'https://github.com/sugengdcahyo',
         },
         {
           type: 'gitlab',
@@ -44,11 +45,11 @@ module.exports = {
         },
         {
           type: 'linkedin',
-          link: '#',
+          link: 'https://www.linkedin.com/in/sugengdcahyo/',
         },
         {
           type: 'mail',
-          link: '#',
+          link: 'mailto:sugengdcahyo@zoonostic.com',
         },
         {
           type: 'messenger',
@@ -60,7 +61,7 @@ module.exports = {
         },
         {
           type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
+          link: 'https://twitter.com/sugengdcahyo',
         },
         {
           type: 'web',
@@ -73,14 +74,14 @@ module.exports = {
           link: 'https://bootstrapstarter.com/license/',
         },
         {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
+          text: 'Vuepress',
+          link: 'https://vuepress.vuejs.org/guide/',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: 'https://github.com/sugengdcahyo'
     },
     comment: {
       service: 'disqus',
