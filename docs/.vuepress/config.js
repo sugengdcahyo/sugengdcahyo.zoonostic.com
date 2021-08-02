@@ -17,8 +17,9 @@ module.exports = {
       {
         name: 'Sugeng D. Cahyo',
         avatar: '/assets/img/avatar.svg',
-        link: 'https://bootstrapstarter.com/',
+        link: 'https://www.linkedin.com/in/sugengdcahyo/',
         linktext: 'Follow',
+        summary: 'Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo.Indonesian ordinary people'
       },
     ],
     footer: {

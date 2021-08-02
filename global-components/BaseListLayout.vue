@@ -66,7 +66,6 @@
                     <div v-if="author.name === page.frontmatter.author">
                       <span class="username">{{ author.name }}</span> &nbsp;
                     </div>
-                    <div></div>
                   </div>
                 </div>
               </span>
