@@ -73,7 +73,10 @@
        clip-path="none"
        d="m 10.8301,44.95849 c -2.0554634,0 -3.7104822,1.655016 -3.7104822,3.710481 v 20.515047 c 0,2.055449 1.6550188,3.710473 3.7104822,3.710473 h 4.495365 V 59.177153 c 0,-0.192371 0.154921,-0.347296 0.347285,-0.347296 0.19237,0 0.347292,0.154925 0.347292,0.347296 v 13.717338 h 9.969307 V 59.177153 c 0,-0.192371 0.154925,-0.347296 0.347296,-0.347296 0.192363,0 0.34728,0.154925 0.34728,0.347296 v 13.717338 h 4.661211 c 2.05545,0 3.710482,-1.655024 3.710482,-3.710473 V 48.668971 c 0,-2.055465 -1.655032,-3.710481 -3.710482,-3.710481 z"
        id="rect864"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/scahyo/myblog/mediumish-vuepress/logos/mojok-square-black.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        ry="4.5435815"
        y="3.2000923"
@@ -116,7 +119,10 @@
        id="path1059"
        d="m 54.662302,44.958491 c -2.055463,0 -3.710482,1.655015 -3.710482,3.710481 v 20.515046 c 0,2.055449 1.655019,3.710473 3.710482,3.710473 h 4.495365 V 59.177153 c 0,-0.192371 0.154922,-0.347296 0.347285,-0.347296 0.19237,0 0.347293,0.154925 0.347293,0.347296 v 13.717338 h 9.969306 V 59.177153 c 0,-0.192371 0.154925,-0.347296 0.347296,-0.347296 0.192363,0 0.34728,0.154925 0.34728,0.347296 v 13.717338 h 4.661212 c 2.055449,0 3.710481,-1.655024 3.710481,-3.710473 V 48.668972 c 0,-2.055466 -1.655032,-3.710481 -3.710481,-3.710481 z"
        clip-path="none"
-       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/scahyo/myblog/mediumish-vuepress/logos/mojok-square-blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        cx="23.36939"
        cy="99.058632"
@@ -178,7 +184,10 @@
        clip-path="none"
        d="m 97.974978,44.958491 c -2.055463,0 -3.710482,1.655015 -3.710482,3.710481 v 20.515046 c 0,2.055449 1.655019,3.710473 3.710482,3.710473 h 4.495362 V 59.177153 c 0,-0.192371 0.15493,-0.347296 0.34729,-0.347296 0.19238,0 0.34729,0.154925 0.34729,0.347296 v 13.717338 h 9.96931 V 59.177153 c 0,-0.192371 0.15493,-0.347296 0.3473,-0.347296 0.19236,0 0.34728,0.154925 0.34728,0.347296 v 13.717338 h 4.66121 c 2.05545,0 3.71048,-1.655024 3.71048,-3.710473 V 48.668972 c 0,-2.055466 -1.65503,-3.710481 -3.71048,-3.710481 z"
        id="path1079"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/scahyo/myblog/mediumish-vuepress/logos/mojok-square-green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        inkscape:connector-curvature="0"
        id="path1081"

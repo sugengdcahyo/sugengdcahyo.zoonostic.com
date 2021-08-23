@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Zoonostic",
+  title: "mojok.in",
+  title_logo: "mojok",
   base: '',
-  // base: './',
   description: '...',
   // description: 'Blog example for Mediumish theme with VuePress',
-  logo: './assets/img/logo.png',
+  logo: './assets/img/logo.svg',
   theme: require.resolve('../../'),
   themeConfig: {
     authors: [
